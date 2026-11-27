@@ -6,6 +6,8 @@ Pak mod file for 77p egg: Eggwife created by its lead programmer that fixes the 
 
 Seems to also help with Arena Mode, in addition to the campaign, reducing Arena Mode's chance of freezing/crashing too, which is fantastic.
 
+This can also help fix a blackscreen freeze upon pressing to continue the game from the main menu.
+
 ## Installation
 
 Place the file into: 
